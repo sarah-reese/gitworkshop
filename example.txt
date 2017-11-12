@@ -3,6 +3,4 @@ hello world
 lets change this file
 this is cloud edition
 
-merging branches 
-
-creating conflicts
+merging
