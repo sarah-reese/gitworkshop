@@ -3,6 +3,4 @@ hello world
 lets change this file
 this is cloud edition
 
-merge 
-
-change
+editing to get rid of merge conflict
